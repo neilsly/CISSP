@@ -1,3 +1,14 @@
+| Title                                                                            | Time (min) |
+| -------------------------------------------------------------------------------- | ---------- |
+| Domain 1 - What we will be covering                                              | 3          |
+| The CIA Triad- Part 1- Confidentiality, Integrity, and Availability              | 12         |
+| The CIA Triad- Part 2- Confidentiality, Integrity, and Availability              | 11         |
+| AAA- Part 1- Identification, Authentication, Authorization, and Accountability   | 9          |
+| IAAA- Part 2- Identification, Authentication, Authorization, and Accountability  | 5          |
+| Governance and Management                                                        | 8          |
+| Standards and Frameworks                                                         | 11         |
+| Laws and Regulations                                                             | 7          |
+| Laws and Regulations- Evidence                                                   | 10         |
 | Intellectual property                                                            | 7          |
 | US Laws, European Laws, and International Treaties                               | 10         |
 | GDPR (General Data Protection Regulation)                                        | 9          |
