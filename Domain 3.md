@@ -1,3 +1,5 @@
+# Domain 3
+
 | Title                                                      | Time (min) |
 | ---------------------------------------------------------- | ---------- |
 | Domain 3 - What we will be covering                        | 2          |
